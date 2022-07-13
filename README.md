@@ -1,2 +1,2 @@
 # M4-Summative-Rodney-Plancher
-The Store project 3
+The Store project 1
